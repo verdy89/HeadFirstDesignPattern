@@ -1,3 +1,5 @@
+package _1_strategy_duck;
+
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
